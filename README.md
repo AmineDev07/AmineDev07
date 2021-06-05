@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS/PY/HTML
 - 💞️ I’m looking to collaborate on My projects
 - 📫 How to reach me 
-discord : Ameeen#5915
+discord : Amen#6666
 Instagram : autade_
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ameen-Tn&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
