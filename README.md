@@ -17,8 +17,5 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/AmineDev07/count.svg)
 
-# Official sponsors : 
-|  RH| 𝚃𝚂𝚄𝙽𝙰𝙼𝙸        | 
-:-------------------------:|
- <a href="https://discord.com/users/788164460493144094"><img src="https://cdn.discordapp.com/avatars/788164460493144094/badce5dcfbf1a13dde5d5782767e4425.png?size=1024" height="auto" width="100"></a>| 
+
 
