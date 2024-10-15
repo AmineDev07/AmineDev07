@@ -21,7 +21,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **High School Graduate** with a **Baccalaureate Degree in Computer Science** from Tunisia  
+- 🎓 **High School Graduate** with a **Baccalaureate Degree in Computer Science** and currently and **Undergraduate** in **Computer Engineering** from Tunisia  
 - 🌱 **Currently Learning:** C, C++, and diving deeper into Full Stack development  
 - 💼 **Skills:** MERN Stack (MongoDB, Express.js, React.js, Node.js), PHP, HTML, CSS, JavaScript  
 - 🎂 **Born:** September 6, 2005 (19 years old)
