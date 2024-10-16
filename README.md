@@ -19,7 +19,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+<img src="https://i.imgur.com/1ZP3k47.png">
 
 - 🎓 **High School Graduate** with a **Baccalaureate Degree in Computer Science** and currently and **Undergraduate** in **Computer Engineering** from Tunisia  
 - 🌱 **Currently Learning:** C, C++, and diving deeper into Full Stack development  
