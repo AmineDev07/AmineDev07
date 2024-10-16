@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/cmLvobr">
+<img src="https://i.imgur.com/ss9Mbeu.png">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-19-blue" alt="Age" />
