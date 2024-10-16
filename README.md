@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amine</h1>
+<img src="https://imgur.com/a/cmLvobr">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-19-blue" alt="Age" />
