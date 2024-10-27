@@ -22,7 +22,7 @@
 
 - 🎓 **High School Graduate** with a **Baccalaureate Degree in Computer Science** and currently and **Undergraduate** in **Computer Engineering** from Tunisia  
 - 🌱 **Currently Learning:** C, C++, and diving deeper into Full Stack development  
-- 💼 **Skills:** MERN Stack (MongoDB, Express.js, React.js, Node.js), PHP, HTML, CSS, JavaScript  
+- 💼 **Skills:** MERN Stack (MongoDB, Express.js, React.js(40%), Node.js), PHP, HTML, CSS, JavaScript  
 - 🎂 **Born:** September 6, 2005 (19 years old)
 
 ---
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+   <img src="https://img.shields.io/badge/EJS-grey?style=for-the-badge&logo=ejs" alt="EJS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
